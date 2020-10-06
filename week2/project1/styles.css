@@ -1,0 +1,27 @@
+.CIA > h2 {
+    color: darkgreen;
+}
+.CIA {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#toggle > p {
+    font-size: 25px;
+    color: black;
+}
+a:link {
+    text-decoration: none;
+}
+.you-might {
+    text-transform: uppercase;
+}
+a:hover {
+    text-decoration: underline;
+}
+img {
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 7px;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,11 @@
+.animals {
+    color:blue;
+}
+#toggle > p {
+    font-size: 25px;
+    color: rgb(4, 92, 14);
+}
+.ul, li {
+    color: purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
