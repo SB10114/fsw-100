@@ -1,0 +1,14 @@
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#table {
+    border-radius: 10px;
+    border-style: double;
+    background-color: purple;
+}
+.style {
+    background-color: lightgrey;
+}
+div > h1 {
+    color: blue;
+}
