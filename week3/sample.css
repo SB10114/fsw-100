@@ -1,4 +1,5 @@
 .header {
+    color:blue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #table {
@@ -9,6 +10,6 @@
 .style {
     background-color: lightgrey;
 }
-div > h1 {
-    color: blue;
+div > footer {
+    font-style: italic;
 }
