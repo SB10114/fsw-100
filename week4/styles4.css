@@ -1,0 +1,50 @@
+.body {
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: solid gray 5px;
+}
+
+
+.nav-bar {
+    position: fixed;
+    overflow: hidden;
+    margin: 4px; 
+    padding-bottom: 5px;
+    width: 100%;
+    background-color: rgb(13, 78, 241);
+    color: white;
+}
+.coffee > img {
+    float: left;
+    width: 175px;
+    height: 155px;
+    padding-right: 15px;
+}
+.coffee {
+    padding-top: 15px;
+    border-bottom: groove;
+    border-width: 25px;
+}
+
+.breakfast > img {
+    float: left;
+    width: 175px;
+    height: 150px;
+    padding-right: 15px;
+}
+.breakfast {
+    border-bottom: groove;
+    border-width: 25px;
+}
+.hashbrowns > img {
+    float: left;
+    width: 175px;
+    height: 155px;
+    padding-right: 15px;
+}
+.hashbrowns {
+    border-bottom: groove;
+    border-width: 25px;
+}
