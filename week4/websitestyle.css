@@ -1,0 +1,29 @@
+.whole {
+    background-color: indigo;
+}
+.header {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 2px;;
+    border-bottom: solid black 2px;
+}
+#nav-bar {
+    position: fixed;
+    /* overflow: hidden; */
+    margin: 4px; 
+    padding-bottom: 5px;
+    width: 100%;
+    background-color: rgb(101, 102, 102);
+    color: black;
+}
+.list {
+    display:inline-block;
+    border:2px dotted black;
+    padding:20px;
+}
+.table, th, td {
+        border: 1px solid black;
+}
+.foot {
+    padding-top: 10%;
+}
