@@ -1,0 +1,54 @@
+#box1 {
+    background-color: #ffa500;
+    width:20px;
+    transition: width 2s;
+}
+#box1:hover {
+    background-color: black;
+    transition-delay: 1ms;
+    width: 50px;
+} 
+#box2 {
+    color: blue;
+    border: dashed black;
+    border-width: 2px;
+    height:5px;
+    width:150px;
+}
+#box2:hover {
+    border-width: 5px;
+    border-color: green;
+}
+#box3 {
+    background-color: blue;
+    height: 20px;
+    width: 150px;
+}
+#box3:hover {
+    height: 12px;
+    border-radius: 50%; 
+    background-color: orchid;
+}
+#box4 {
+    height: 10px;
+    width: 150px;
+    background-color: pink;
+}
+#box4:hover {
+    height: 5px;
+}
+#box5 {
+    width: 50px;
+    background-color: paleturquoise;
+}
+#box5:hover {
+    width: 150px;
+    background-color: red;
+}
+#box6 {
+    width:150px;
+    border: solid black;
+}
+#box6:hover {
+    border: dotted pink;
+}
