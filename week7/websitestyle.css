@@ -11,6 +11,7 @@
     display: flex;
     margin: 4px; 
     padding-bottom: 5px;
+    background-color: grey;
     width: 100%;
     color: rgb(223, 221, 221);
     justify-content: space-evenly; 
@@ -22,8 +23,9 @@
 .about:hover { 
  display: inline;
 }
-.home a {
+.home a, .about a, .menu a {
     color:white;
+    text-decoration: none;
 }
 .home a:hover {
     text-decoration: underline;

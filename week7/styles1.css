@@ -1,0 +1,81 @@
+.body {
+    background-color: #839788;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: solid gray 5px;
+}
+#flex-container {
+    display: flex;
+    margin: 4px; 
+    padding-bottom: 5px;
+    background-color: grey;
+    width: 100%;
+    color: rgb(223, 221, 221);
+    justify-content: space-evenly; 
+    padding-right:10px;
+}
+.about {
+    
+}
+.about:hover { 
+ display: inline;
+}
+.home a, .about a, .menu a {
+    color:white;
+    text-decoration: none;
+}
+.home a:hover {
+    text-decoration: underline;
+}
+.meagan > img {
+    float: left;
+    width: 175px;
+    height: 155px;
+    padding-right: 15px;
+}
+.meagan {
+    padding-top: 15px;
+    border-bottom: groove;
+    border-width: 25px;
+}
+
+.sierra > img {
+    float: left;
+    width: 175px;
+    height: 145px;
+    padding-right: 15px;
+    margin-bottom: 20px;
+}
+.sierra {
+    border-bottom: groove;
+    border-width: 25px;
+}
+.kathy > img {
+    float: left;
+    width: 175px;
+    height: 155px;
+    padding-right: 15px;
+}
+.kathy {
+    border-bottom: groove;
+    border-width: 25px;
+}
+@media only screen and (max-width: 650px){
+    .meagan {
+        text-align: left;
+    }
+}@media only screen and (max-width: 650px){
+    .sierra {
+        text-align: left;
+    }
+}@media only screen and (max-width: 650px){
+    .kathy {
+        text-align: left;
+    }
+}@media only screen and (max-width: 650px){
+    .body {
+        font-style: italic;
+    }
+}
