@@ -1,5 +1,6 @@
 .whole {
     background-color: #839788;
+    margin-left: 10px;
 }
 .header {
     font-family:'Sansita Swashed', cursive;
@@ -23,7 +24,7 @@
 .about:hover { 
  display: inline;
 }
-.home a, .about a, .menu a {
+.home a, .about a, .pricing a {
     color:white;
     text-decoration: none;
 }

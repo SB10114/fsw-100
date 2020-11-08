@@ -22,7 +22,7 @@
 .about:hover { 
  display: inline;
 }
-.home a, .about a, .menu a {
+.home a, .about a, .pricing a {
     color:white;
     text-decoration: none;
 }
