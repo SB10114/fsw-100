@@ -17,8 +17,9 @@
     justify-content: space-evenly; 
     padding-right:10px;
 }
-.about {
-    
+.about:hover, .home:hover, .pricing:hover { 
+    display: inline;
+    background-color: rgb(43, 42, 42);
 }
 .about:hover { 
  display: inline;

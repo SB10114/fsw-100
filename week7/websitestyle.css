@@ -21,12 +21,13 @@
 .about {
     
 }
-.about:hover { 
+.about:hover, .home:hover, .pricing:hover { 
  display: inline;
+ background-color: rgb(43, 42, 42);
 }
 .home a, .about a, .pricing a {
     color:white;
-    text-decoration: none;
+    /* text-decoration: none; */
 }
 .home a:hover {
     text-decoration: underline;
